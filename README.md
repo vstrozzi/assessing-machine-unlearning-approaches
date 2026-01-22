@@ -1,5 +1,5 @@
 # Forget with Precision: Assessing Machine Unlearning Approaches
-![Teaser](images/schema_unlearning.png)
+![Teaser](data/unlearnind.png)
 
 ## Overview
 
@@ -30,7 +30,7 @@ We evaluate eight distinct unlearning methods, imposing a constraint that each a
 
 ## Results
 
-![Teaser](images/results_unlearning.png)
+![Teaser](data/table_unlearning.png)
 
 Key findings from the experiments on CIFAR-10 and AgeDB:
 
