@@ -1,5 +1,5 @@
 # Forget with Precision: Assessing Machine Unlearning Approaches
-![Teaser](data/unlearnind.png)
+![Teaser](data/unlearning.png)
 
 ## Overview
 
