@@ -1,4 +1,5 @@
 # Forget with Precision: Assessing Machine Unlearning Approaches
+![Teaser](images/schema_unlearning.png)
 
 ## Overview
 
@@ -28,6 +29,8 @@ We evaluate eight distinct unlearning methods, imposing a constraint that each a
 * **Activation Reset:** Reinitializing kernels that exhibit significantly higher average activation for forget set samples compared to retain set samples.
 
 ## Results
+
+![Teaser](images/results_unlearning.png)
 
 Key findings from the experiments on CIFAR-10 and AgeDB:
 
