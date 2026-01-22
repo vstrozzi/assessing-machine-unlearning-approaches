@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the emerging field of Machine Unlearning, which aims to selectively remove data from trained deep learning models while preserving overall performance. We evaluate various unlearning approaches—ranging from established techniques like finetuning and poisoning to novel methods like Pruning Complex—using a rigorous experimental framework on ResNet-18.
+This project explores the emerging field of Machine Unlearning, which aims to selectively remove data from trained deep learning models while preserving overall performance. We evaluate various unlearning approaches, ranging from established techniques like finetuning and poisoning to novel methods like Pruning Complex, using a rigorous experimental framework on ResNet-18.
 
 By Max Krähenmann, Leo Neubecker, Virgilio Strozzi, and Igor Martinelli at ETH Zürich (2023).
 
